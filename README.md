@@ -4,8 +4,8 @@ A simple movie search engine with different implementations
 Instructions:
 1. Run ElasticSearch
 2. Run insert_movies.py
-3. Run search_1.py / search_2.py
-or
+3. Run search_1.py / search_2.py  
+or  
 3. Run create_data_3 (takes hours, output file here -> https://drive.google.com/file/d/1VDm7z7K32N-Ah-XFUwJ_sKuOmGGOsiHW/view?usp=sharing)
 4. Run search_3.py (needs ratings_3.csv)
 
