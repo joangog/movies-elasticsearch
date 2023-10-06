@@ -1,6 +1,7 @@
 # movies-elasticsearch
 
-A simple movie search engine with different implementations
+A simple personalized movie search engine with different ranking implementations (BM25, custom metric, custom metric + clustering imputation).
+The custom metric combines avg movie rating, current user rating and relevance (BM25).
 
 Instructions:
 1. Run ElasticSearch
